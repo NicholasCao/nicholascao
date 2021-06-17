@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm NicholasCao(ctf).
+
+<!-- - 🔭 I’m currently working on Tencent -->
+- 🌱 Learning at SCUT currently
+- 🍉 Working on AI currently
+
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=nicholascao&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+
