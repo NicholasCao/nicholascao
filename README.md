@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm NicholasCao(ctf) .
+I'm NicholasCao (ctf) .
 
 <!-- - 🔭 I’m currently working on Tencent -->
 - 🌱 Learning at SCUT currently
