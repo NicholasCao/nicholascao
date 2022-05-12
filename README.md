@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 I'm NicholasCao (ctf) .
 
-- 🌱 Learning at SCUT currently
-- 🍉 Working on NLP currently
+<!-- - 🌱 Learning at SCUT currently
+- 🍉 Working on NLP currently -->
 
 ### Github Stats
 
